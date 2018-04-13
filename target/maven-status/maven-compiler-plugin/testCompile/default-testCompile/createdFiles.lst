@@ -1,0 +1,5 @@
+com/codefeedr/kafka/GitHubSourceTaskTest.class
+com/codefeedr/kafka/GitHubSourceConnectorConfigTest.class
+com/codefeedr/kafka/GitHubSourceConnectorTest.class
+com/codefeedr/kafka/utils/DateUtilsTest.class
+com/codefeedr/kafka/GitHubSourceTaskTest$1.class

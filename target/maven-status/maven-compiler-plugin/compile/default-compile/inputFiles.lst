@@ -1,0 +1,16 @@
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/target/generated-sources/avro/com/github/PushAuthor.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/src/main/java/com/codefeedr/kafka/Validators/TimestampValidator.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/src/main/java/com/codefeedr/kafka/VersionUtil.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/target/generated-sources/avro/com/github/Actor.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/src/main/java/com/codefeedr/kafka/GitHubSourceSchemas.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/src/main/java/com/codefeedr/kafka/GitHubSourceTask.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/target/generated-sources/avro/com/github/PushEvent.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/src/main/java/com/codefeedr/kafka/utils/DateUtils.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/src/main/java/com/codefeedr/kafka/GitHubSourceAPIHttpClient.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/src/main/java/com/codefeedr/kafka/GitHubSourceConnector.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/target/generated-sources/avro/com/github/Organization.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/target/generated-sources/avro/com/github/Payload.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/target/generated-sources/avro/com/github/Repo.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/src/main/java/com/codefeedr/kafka/GitHubSourceConnectorConfig.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/target/generated-sources/avro/com/github/PushCommit.java
+/Users/enrique/Development/repo/kafka/kafka-connect-github-1.0/src/main/java/com/codefeedr/kafka/Validators/BatchSizeValidator.java
