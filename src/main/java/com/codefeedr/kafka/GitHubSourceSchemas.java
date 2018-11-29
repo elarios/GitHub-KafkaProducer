@@ -8,6 +8,7 @@ public class GitHubSourceSchemas {
 
     public static String NEXT_PAGE_FIELD = "next_page";
 
+
     // Event fields
     public static String EVENT_TYPE_FIELD = "type";
     public static String EVENT_PUBLIC_FIELD = "public";
