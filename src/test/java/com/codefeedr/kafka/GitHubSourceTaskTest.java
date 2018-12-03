@@ -9,7 +9,7 @@ import org.apache.kafka.clients.producer.*;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.junit.Test;
-import com.fasterxml.jackson.core.JsonParser;
+import org.json.JSONException;
 import java.time.Instant;
 import java.util.*;
 
